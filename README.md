@@ -1,5 +1,5 @@
 # user_change.sh #
-A sh script that easily changes the username of your linux vm on Chromebook(s)
+A bash script that easily changes the username of your user on Crostini.
 
 ## How do I run this? ##
 - You need to enter Crosh doing `Ctrl + Alt + T` while one google chrome.
