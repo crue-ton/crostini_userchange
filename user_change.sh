@@ -1,5 +1,7 @@
 ##
-## WARNING! THIS SCRIPT IS FOR CROSTINI THAT IS RUNNING UNDER DEBIAN!
+## Just a warning, this script has only been tested on Crostini containers running Debian and Arch.
+## So if you are running on a different distro, and this does not work, please make an issue and we can try
+## To make this compatible with your distro :)
 ##
 
 echo 'Start? [y/N]'
