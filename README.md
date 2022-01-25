@@ -1,6 +1,9 @@
 # user_change.sh #
 A bash script that easily changes the username of your user on Crostini.
 
+## WARNING! ##
+This script has only been tested on Crostini containers running Debian and Arch. So if you are running on a different distro, and this does not work, please make an issue and we can try to make this compatible with your distro :) --crue-ton
+
 ## How do I run this? ##
 - You need to enter Crosh doing `Ctrl + Alt + T` while one google chrome.
 - Enter a terminal session by running:
